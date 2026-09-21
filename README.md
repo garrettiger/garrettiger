@@ -1,6 +1,6 @@
 # AI & Automation, CRM Integrations | Backend Engineer 
 
-Build with purpose. Keep learning. Make things that last.
+**Build with purpose. Keep learning. Make things that last.**
 
 Expertise:
 
@@ -17,7 +17,6 @@ Technologies:
 - AI: LLMs, RAG, Tool Calling
 - Infrastructure: DNS, DKIM, Google Workspace, Cloudinary
 
-**Build systems that are stable, searchable, and easy for teams to operate.**
 
 ## Tech Stack
 
