@@ -1,12 +1,21 @@
 # AI & Automation, CRM Integrations | Backend Engineer 
 
-I help enterprises design and improve software systems that automate inefficient business workflows. My background spans backend engineering, system integrations, production infrastructure, and business applications, with more recent work combining those foundations with AI and modern automation platforms.
+Build with purpose. Keep learning. Make things that last.
 
-I design CRM and operational workflows, build custom integrations between business systems, and use platforms such as GHL, HubSpot, Salesforce, make, n8n and Zapier where they fit the architecture. When standard automation tools are not enough, I build the required services, APIs, data pipelines, and business logic in custom software.
+Expertise:
 
-My recent work also includes AI agents that connect enterprise data, retrieve and reason across information from multiple systems, and execute multi-step business workflows.
+- CRM Automation & Integration
+- API & Systems Integration
+- AI Agent Development
+- Workflow & Infrastructure Automation
 
-I work across the production environment as well, including cloud infrastructure, servers, databases, APIs, deployment, hosting, domains and DNS, and 3rd party system configuration. This allows me to take responsibility for a system from architecture and development through integration, deployment, and ongoing production operation.
+Technologies:
+
+- Automation: n8n, Make, Zapier
+- CRM: GoHighLevel, HubSpot
+- Development: Python, JavaScript, APIs, Webhooks
+- AI: LLMs, RAG, Tool Calling
+- Infrastructure: DNS, DKIM, Google Workspace, Cloudinary
 
 **Build systems that are stable, searchable, and easy for teams to operate.**
 
