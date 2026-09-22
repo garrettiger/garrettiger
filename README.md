@@ -3,13 +3,16 @@
 **Build with purpose. Keep learning. Make things that last.**
 
 Expertise:
-- CRM Automation
-- Business & Systems Automation
-- AI Agent Development
-- Domain, DNS & Email Configuration
+
+— CRM Automation
+— Business & Systems Automation
+— AI Agent Development
+— Domain, DNS & Email Configuration
 
 Skills:
+
 n8n, Make.com, Zapier, APIs, Webhooks, Python, JavaScript, GoHighLevel, HubSpot, LLMs, RAG, Tool Calling, DNS, DKIM, Cloudinary, Google Workspace
+
 
 
 ## Tech Stack
