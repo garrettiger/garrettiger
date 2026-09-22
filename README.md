@@ -4,10 +4,10 @@
 
 Expertise:
 
-— CRM Automation
-— Business & Systems Automation
-— AI Agent Development
-— Domain, DNS & Email Configuration
+ — CRM Automation
+ — Business & Systems Automation
+ — AI Agent Development
+ — Domain, DNS & Email Configuration
 
 Skills:
 
