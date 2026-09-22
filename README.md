@@ -4,16 +4,16 @@
 
 Expertise:
 
-*-* CRM Automation
-*-* Business & Systems Automation
-*-* AI Agent Development
-*-* Domain, DNS & Email Configuration
+- CRM Automation
+- Business & Systems Automation
+- AI Agent Development
+- Domain, DNS & Email Configuration
 
 ## Tech Stack
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,js,nodejs,postgres,redis,supabase,docker,aws,gcp,githubactions,git,linux" />
+<img src="https://skillicons.dev/icons?i=n8n,zapier,python,django,flask,js,nodejs,postgres,redis,supabase,docker,aws,gcp,githubactions,git,linux" />
 <img height="40" src="https://cdn.simpleicons.org/vercel" />
 <img height="40" src="https://cdn.simpleicons.org/railway" />
 <img height="40" src="https://cdn.simpleicons.org/render" />
